@@ -1,5 +1,4 @@
 ---
 layout: home
 ---
-
-Welcome to Seyong's github page!
+What the blog made of Jekyll???
