@@ -1,4 +1,7 @@
 ---
 layout: home
 ---
-What the blog made of Jekyll???
+
+Welcome to Seyong's technical blog.
+
+I'm a software engineer based in Toronto.
