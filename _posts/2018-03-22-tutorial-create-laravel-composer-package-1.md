@@ -1,3 +1,11 @@
+---
+layout: post
+title: "[Tutorial] Part 1 : Create a Laravel package - The Basic setup"
+date: 2018-03-22
+categories: laravel
+comments: true
+---
+
 Link to [full package boilerplate](https://github.com/se468/laravel-package-boilerplate)
 
 ## Basic Setup

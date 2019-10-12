@@ -1,3 +1,11 @@
+---
+layout: post
+title: "[Tutorial] Part 3: Create a Laravel package - Front end assets"
+date: 2018-03-23
+categories: laravel
+comments: true
+---
+
 Link to [full package boilerplate](https://github.com/se468/laravel-package-boilerplate)
 
 Last tutorial, we went over creating migrations, model and controllers, and also routes and views for laravel package development. We'll go over how to set up webpack and compile scss and js to use in the views for our packages.

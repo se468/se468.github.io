@@ -1,3 +1,11 @@
+---
+layout: post
+title: "[Tutorial] Part 2: Create a Laravel package - Migrations, Controllers, Routes, Views"
+date: 2018-03-22
+categories: laravel
+comments: true
+---
+
 Link to [full package boilerplate](https://github.com/se468/laravel-package-boilerplate)
 
 If you followed first part of this tutorial, you should have a folder called `packages` in your Laravel installation, and inside that, you should have directory structure like following: 
