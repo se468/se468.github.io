@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Why Reading Open Source Codes are necessary for independent developers"
+date: 2018-04-24
+categories: laravel
+comments: true
+---
+
 Open source projects give you a great chance to learn from other people's code, and you can see the code written by people a lot more experienced and skilled than you. There is always someone better than you out there. Most importantly,as an independent freelance developer or if you are working in a small company, you can get stuck working with codes that aren't written by experienced developers. 
 
 > Open source projects gives you a chance to learn from others and give/get feedback to big projects that are used by millions.

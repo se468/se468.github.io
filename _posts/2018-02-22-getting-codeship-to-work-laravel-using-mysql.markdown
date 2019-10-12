@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GETTING CODESHIP TO WORK WITH LARAVEL 5.5 (USING MYSQL)"
-date: 2018-08-02
+date: 2018-02-22
 categories: laravel
 comments: true
 ---

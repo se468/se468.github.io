@@ -1,4 +1,11 @@
-# Integrating Rest Hooks in Laravel Passport that works with Zapier CLI that authenticates with OAuth 2
+---
+layout: post
+title: "Integrating Rest Hooks in Laravel Passport that works with Zapier CLI that authenticates with OAuth 2"
+date: 2018-05-05
+categories: laravel
+comments: true
+---
+
 Building REST Hooks in Laravel is one challenge, making it work well with Zapier is another.
 As a developer who uses PHP/Laravel for pretty much all the projects nowadays, I found Zapier CLI a little hard to set up in the beginning.
 It can be quite overwhelming to integrate all of this if you don't know where to start.

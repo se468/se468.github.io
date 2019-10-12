@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Setting up Local Domain in MAMP (like yoursite.dev)"
-date: 2018-08-02
+date: 2018-02-08
 categories: laravel
 comments: true
 ---

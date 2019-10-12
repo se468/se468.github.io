@@ -1,4 +1,10 @@
-# Introduction: Laravel Package Generator Extended!
+---
+layout: post
+title: "Introduction: Laravel Package Generator Extended!"
+date: 2018-03-27
+categories: laravel
+comments: true
+---
 
 Generating Laravel package is fun and exciting task. However, there are a lot of manual works involved in it still. We want to be able to use the artisan commands to generate all the necessary files on the fly just like how we develop our regular Laravel application. 
 
