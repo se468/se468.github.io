@@ -11,3 +11,7 @@ I've had a few weeks to spare in between moving jobs, and I've built a game usin
 The game is called Fox loves stars and its a basic platformer mini game. Try it at the link below:
 
 [Link](http://foxlovesstars.coastlineexpat.com/)
+
+It can also be played at Itch.io
+
+[Link](https://se468.itch.io/fox-loves-stars)
